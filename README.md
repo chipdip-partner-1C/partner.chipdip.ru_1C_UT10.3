@@ -114,6 +114,6 @@
 </g>
 </svg>
 
-![chipdip-partner-logo](https://github.com/chipdip-partner-1C/partner.chipdip.ru_1C_UT10.3/assets/165677667/244eb86d-1c26-44d0-9244-ac6d00e541e6)
+![chipdip-partner-logo](https://github.com/chipdip-partner-1C/partner.chipdip.ru_1C_UT10.3/assets/165677667/d21f455c-42f8-4fde-9885-09dfa5b69ab7)
 
 Обработка "1C_UnloadPriceUT10.epf" предназначена для конфигурации 1С "Управление торговлей", редакция 10.3.
