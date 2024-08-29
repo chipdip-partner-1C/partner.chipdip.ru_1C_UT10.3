@@ -116,7 +116,7 @@
 
 ![chipdip-partner-logo](https://github.com/chipdip-partner-1C/partner.chipdip.ru_1C_UT10.3/assets/165677667/d21f455c-42f8-4fde-9885-09dfa5b69ab7)
 
-Обработка "1C_UnloadPriceUT10.epf" предназначена для интеграции конфигурации 1С "Управление торговлей" редакция 10.3 (1C_UnloadPriceUT10.epf) и редакцией 11 (1C_UnloadPriceUT11.epf)с партнерским сайтом https://partner.chipdip.ru/ через API.
+Обработки предназначены для интеграции конфигурации 1С "Управление торговлей" редакция 10.3 (1C_UnloadPriceUT10.epf) и редакция 11 (1C_UnloadPriceUT11.epf) с партнерским сайтом https://partner.chipdip.ru/ через API.
 
 С помощью данных обработок можно:
 1) Выгружать прайс с остатками и ценами на партнерский сайт, есть возможность отбора по определенному складу и типу цен.
